@@ -1,0 +1,5 @@
+- make initial styles
+- init midjourney api
+- allow for customization of pattern
+- allow people to download patterns or make new ones
+- alow people to share them with others
